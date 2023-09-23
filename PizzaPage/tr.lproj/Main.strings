@@ -1,0 +1,60 @@
+
+/* Class = "UIButton"; configuration.title = "L"; ObjectID = "8tS-MK-f4q"; */
+"8tS-MK-f4q.configuration.title" = "L";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8tS-MK-f4q"; */
+"8tS-MK-f4q.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "7.50"; ObjectID = "9bZ-xz-Ki9"; */
+"9bZ-xz-Ki9.text" = "160";
+
+/* Class = "UIButton"; configuration.title = "S"; ObjectID = "EHo-c1-Lis"; */
+"EHo-c1-Lis.configuration.title" = "S";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EHo-c1-Lis"; */
+"EHo-c1-Lis.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "Gn9-OW-Xzw"; */
+"Gn9-OW-Xzw.text" = "₺";
+
+/* Class = "UILabel"; text = "Pepperoni"; ObjectID = "KE1-mb-afD"; */
+"KE1-mb-afD.text" = "Pepperoni";
+
+/* Class = "UIButton"; configuration.title = "ADD TO CART"; ObjectID = "KFA-il-WzD"; */
+"KFA-il-WzD.configuration.title" = "SEPETE EKLE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KFA-il-WzD"; */
+"KFA-il-WzD.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Pepper"; ObjectID = "Sdd-Mw-FON"; */
+"Sdd-Mw-FON.configuration.title" = "Biber";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Sdd-Mw-FON"; */
+"Sdd-Mw-FON.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cheese"; ObjectID = "atg-SQ-sXC"; */
+"atg-SQ-sXC.configuration.title" = "Peynir";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "atg-SQ-sXC"; */
+"atg-SQ-sXC.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "M"; ObjectID = "fol-1A-Uzq"; */
+"fol-1A-Uzq.configuration.title" = "M";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fol-1A-Uzq"; */
+"fol-1A-Uzq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "hj5-Ll-gKd"; */
+"hj5-Ll-gKd.text" = "Boyut";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "lQT-mS-Q8i"; */
+"lQT-mS-Q8i.text" = "Açıklama";
+
+/* Class = "UILabel"; text = "Pepperoni Pizza is prepared by delicately merging thinly stretched crispy dough with fresh tomato sauce, ample mozzarella cheese, sharp pepperoni slices, and carefully selected spices."; ObjectID = "vk2-mA-Z8W"; */
+"vk2-mA-Z8W.text" = "Pepperoni Pizza, incelikle açılmış çıtır hamurun üzerine taptaze domates sosu, bolca mozzarella peyniri,sucuk dilimleri ve özenle seçilmiş baharatlarla buluşturularak hazırlanır.";
+
+/* Class = "UIButton"; configuration.title = "Sausage"; ObjectID = "yfR-Qf-qfb"; */
+"yfR-Qf-qfb.configuration.title" = "Sucuk";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yfR-Qf-qfb"; */
+"yfR-Qf-qfb.normalTitle" = "Button";
